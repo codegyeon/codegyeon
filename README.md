@@ -35,6 +35,6 @@ Intellij IDEA
   <img src="https://img.shields.io/badge/Intellij IDEA-4479A1?style=for-the-badge&logo=Intellij IDEA&logoColor=white">
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=codegyeon&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=codegyeon&show_icons=true&theme=tokyonight)
 
 
